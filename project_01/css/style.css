@@ -182,3 +182,17 @@ header img {
   text-align: justify;
   padding: 10px 25px;
 }
+
+footer {
+  padding: 20px 0;
+  border-top: 2px solid #888;
+  text-align: center;
+  color: #888;
+}
+footer p {
+  margin-top: 10px;
+}
+
+.clear {
+  clear: both;
+}
